@@ -1,6 +1,7 @@
 {
     "name": "jxri/laravel-telegram-auth",
     "description": "Laravel Telegram Login Auth",
+	"version": "1.0.0",
     "keywords": ["laravel", "telegram", "auth"],
     "license": "MIT",
     "authors": [
