@@ -1,5 +1,5 @@
 {
-    "name": "jxri/Laravel-Telegram-Auth",
+    "name": "Jxri/Laravel-Telegram-Auth",
     "description": "Laravel Telegram Login Auth",
     "keywords": ["laravel", "telegram", "auth"],
     "license": "MIT",
@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "jxri\\LaravelTelegramLoginAuth\\": "src"
+            "Jxri\\LaravelTelegramLoginAuth\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "jxri\\LaravelTelegramLoginAuth\\TelegramLoginServiceProvider"
+                "Jxri\\LaravelTelegramLoginAuth\\TelegramLoginServiceProvider"
             ]
         }
     }

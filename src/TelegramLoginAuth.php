@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace jxri\LaravelTelegramLoginAuth;
+namespace Jxri\LaravelTelegramLoginAuth;
 
 use Carbon\Carbon;
 use Illuminate\Http\Request;
@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 /**
  * Class TelegramLoginAuth
  *
- * @package jxri\TelegramLoginAuth
+ * @package Jxri\TelegramLoginAuth
  */
 final class TelegramLoginAuth
 {
