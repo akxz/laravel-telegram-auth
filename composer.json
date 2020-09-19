@@ -1,5 +1,5 @@
 {
-    "name": "Jxri/Laravel-Telegram-Auth",
+    "name": "jxri/laravel-telegram-auth",
     "description": "Laravel Telegram Login Auth",
     "keywords": ["laravel", "telegram", "auth"],
     "license": "MIT",
