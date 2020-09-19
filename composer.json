@@ -1,29 +1,29 @@
 {
-    "name": "azate/laravel-telegram-login-auth",
+    "name": "jxri/Laravel-Telegram-Auth",
     "description": "Laravel Telegram Login Auth",
     "keywords": ["laravel", "telegram", "auth"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Artem Didyk",
-            "email": "c5c77b6+1467d308@gmail.com"
+            "name": "Jerry Imari",
+            "email": "jer@plugged.pro"
         }
     ],
     "require": {
-        "php": "^7.0",
-        "illuminate/http": "5.5.x|5.6.x|5.7.x|5.8.*",
-        "illuminate/support": "5.5.x|5.6.x|5.7.x|5.8.*",
-        "nesbot/carbon": "^1.32|^2"
+        "php": ">=7.2",
+        "illuminate/http": "~5.6|~5.7|~5.8|^6.0|^7.0",
+        "illuminate/support": "~5.6|~5.7|~5.8|^6.0|^7.0"
+        "nesbot/carbon": "^1.32|^2.32"
     },
     "autoload": {
         "psr-4": {
-            "Azate\\LaravelTelegramLoginAuth\\": "src"
+            "jxri\\LaravelTelegramLoginAuth\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Azate\\LaravelTelegramLoginAuth\\TelegramLoginServiceProvider"
+                "jxri\\LaravelTelegramLoginAuth\\TelegramLoginServiceProvider"
             ]
         }
     }
