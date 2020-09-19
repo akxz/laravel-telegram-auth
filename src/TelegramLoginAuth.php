@@ -98,6 +98,7 @@ final class TelegramLoginAuth
             'last_name' => $data['last_name'] ?? null,
             'username' => $data['username'] ?? null,
             'avatar' => $data['photo_url'] ?? null,
+			'hash' => $data['hash'] ?? null,
         ];
     }
 }
