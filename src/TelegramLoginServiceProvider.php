@@ -1,6 +1,6 @@
 <?php
 
-namespace Jxri\LaravelTelegramLoginAuth;
+namespace Akxz\LaravelTelegramLoginAuth;
 
 use Illuminate\Support\ServiceProvider;
 
