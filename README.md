@@ -3,7 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/azate/laravel-telegram-login-auth/v/stable)](https://packagist.org/packages/azate/laravel-telegram-login-auth)
 [![Total Downloads](https://poser.pugx.org/azate/laravel-telegram-login-auth/downloads)](https://packagist.org/packages/azate/laravel-telegram-login-auth)
 
-This package is a Laravel 5 service provider which provides support for Laravel Login and is very easy to integrate with any project that requires Telegram authentication.
+This package is a Laravel 5-8 service provider which provides support for Laravel Login and is very easy to integrate with any project that requires Telegram authentication.
 
 ## Installation
 Require this package with composer.
