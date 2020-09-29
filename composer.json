@@ -1,5 +1,5 @@
 {
-    "name": "jxri/laravel-telegram-auth",
+    "name": "akxz/laravel-telegram-auth",
     "description": "Laravel Telegram Login Auth",
 	"version": "1.0.1",
     "keywords": ["laravel", "telegram", "auth"],
