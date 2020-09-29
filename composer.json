@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Jxri\\LaravelTelegramLoginAuth\\TelegramLoginServiceProvider"
+                "Akxz\\LaravelTelegramLoginAuth\\TelegramLoginServiceProvider"
             ]
         }
     }
